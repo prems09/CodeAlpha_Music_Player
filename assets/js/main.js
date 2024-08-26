@@ -25,37 +25,37 @@ const music_list = [
   {
     img: "assets/images/1.jpg",
     name: "Nadaaniyan",
-    artist: "Orkhan Zeynalli",
+    artist: "Akshath Acharya",
     music: "assets/music/in-y2mate.com - Akshath  Nadaaniyan Official Video Aisha Ahmed.mp3",
   },
   {
     img: "assets/images/2.jpg",
     name: "Angaaron",
-    artist: "CEZA",
+    artist: "Shreya Ghosal",
     music: "assets/music/in-y2mate.com - Angaaron The Couple Song Lyrical  Pushpa 2 The Rule  Allu Arjun Rashmika Sukumar DSP Shreya.mp3",
   },
   {
     img: "assets/images/3.jpg",
     name: "Suniyan Suniyan",
-    artist: "Gazapizm",
+    artist: "MixSingh",
     music: "assets/music/in-y2mate.com - SUNIYAN SUNIYAN Official Video Juss x MixSingh.mp3",
   },
   {
     img: "assets/images/4.jpg",
     name: "Dil Tu Jaan Tu",
-    artist: "Orkhan Zeynalli",
+    artist: "Gurnazar",
     music: "assets/music/in-y2mate.com - Dil Tu Jaan Tu Full Video Gurnazar Ft Kritika Yadav  New Punjabi Viral Song  Chet Singh.mp3",
   },
   {
     img: "assets/images/5.jpg",
     name: "Dekhha Tenu",
-    artist: "Orkhan Zeynalli",
+    artist: "Udit Narayan",
     music: "assets/music/in-y2mate.com - Dekhha Tenu  Mr  Mrs Mahi  Rajkummar Rao Janhvi Kapoor  Mohd Faiz  Jaani  Aadesh S Sameer.mp3",
   },
   {
     img: "assets/images/6.jpg",
     name: "Tu Hain Toh",
-    artist: "Orkhan Zeynalli",
+    artist: " Bunny & Sagar",
     music: "assets/music/in-y2mate.com - Tu Hain Toh  Mr  Mrs Mahi  Rajkummar Rao Janhvi Kapoor  Hunny Bunny Sagar  Team Jaani.mp3",
   },
 ];
